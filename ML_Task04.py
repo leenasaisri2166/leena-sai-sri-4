@@ -156,4 +156,3 @@ class_labels = {
 # Run the function
 upload_and_predict()
 
-#Crafted With Love By Sam Naveenkumar .V
